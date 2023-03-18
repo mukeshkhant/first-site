@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/mukeshkhant/first-site-web/static/css/main.1d6a8da3.css",
+    "main.js": "/mukeshkhant/first-site-web/static/js/main.898070ec.js",
+    "static/js/787.595a2b2e.chunk.js": "/mukeshkhant/first-site-web/static/js/787.595a2b2e.chunk.js",
+    "static/media/carousel-1.jpg": "/mukeshkhant/first-site-web/static/media/carousel-1.0c731fe6459d52f225d3.jpg",
+    "index.html": "/mukeshkhant/first-site-web/index.html",
+    "main.1d6a8da3.css.map": "/mukeshkhant/first-site-web/static/css/main.1d6a8da3.css.map",
+    "main.898070ec.js.map": "/mukeshkhant/first-site-web/static/js/main.898070ec.js.map",
+    "787.595a2b2e.chunk.js.map": "/mukeshkhant/first-site-web/static/js/787.595a2b2e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1d6a8da3.css",
+    "static/js/main.898070ec.js"
+  ]
+}
