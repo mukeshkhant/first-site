@@ -1,0 +1,38 @@
+
+@media only screen and (max-width:1400px) {	
+    
+}
+@media only screen and (max-width:1199px) {	
+    .main_menu > ul > li{ margin-right: 4px;}
+    .main_menu > ul > li a{ font-size: 11px;}
+    .logo img{ height: 20px;}
+    .video-box{transform:none;}
+    
+}
+	
+@media only screen and (max-width:969px) {
+    .header{ position: relative; background-color: #000; padding: 10px 0;}
+    .header.header-dark{ position: relative; padding: 10px 0;}
+    
+
+}
+
+@media only screen and (max-width:767px) {
+}
+ @media only screen and (max-width: 640px) {
+    .video-box-in{ width: 250px; height: 250px;}
+}
+@media only screen and (max-width: 540px) {
+
+}
+@media only screen and (max-width: 480px) {
+	
+
+}
+@media only screen and (max-width:380px) {
+	
+}
+	
+@media only screen and (max-width:320px) {
+	 
+}
